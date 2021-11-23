@@ -6,3 +6,4 @@ if you want, put a defined message in message.txt !
 made by ezermoz in python
 
 fuck skid 
+https://youtu.be/rwbvtHlZd-U
